@@ -54,7 +54,7 @@ Puedo definirme experto tanto en el análisis como en la implantación de soluci
 </td>
 <td>
 <a href="https://youtu.be/ub2trfqIbIk">
-<img src="./curso-desarrollo-backend-nestjs.png">
+<img src="./Cómo CREAR un proyecto con NestJS.png">
 </a>
 </td>
 <td>
