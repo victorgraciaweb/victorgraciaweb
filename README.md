@@ -1,11 +1,11 @@
 # Hola, mi nombre es Víctor Gracia 👋
-### Blockchain Developer (Freelance)
+### Blockchain & Full-Stack Developer (Freelance)
 
 ![https://github.com/victorgraciaweb](./victorgraciaweb_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsmQjQ9fFjD6AkmfG7W01wg?style=social)](https://youtube.com/@victorgraciaweb?sub_confirmation=1)
 
-Soy desarrollador de Software desde hace más de 10 años.
+Soy desarrollador de Software desde hace más de 12 años.
 
 Consultor en transformación digital para empresas desarrollando todo tipo de productos digitales implementando para ello tecnologías Blockchain & web y metodologías ágiles de trabajo como Scrum.
 
