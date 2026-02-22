@@ -1,15 +1,20 @@
 # Hola, mi nombre es Víctor Gracia 👋
-### Blockchain & Full-Stack Developer (Freelance)
+
+### Backend Architecture & Tech Lead
 
 ![https://github.com/victorgraciaweb](./victorgraciaweb_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsmQjQ9fFjD6AkmfG7W01wg?style=social)](https://youtube.com/@victorgraciaweb?sub_confirmation=1)
 
-Soy desarrollador de Software desde hace más de 12 años.
+Ayudo a equipos técnicos a diseñar e implementar sistemas backend escalables, tomando decisiones estratégicas de arquitectura y guiando la implementación crítica. Experto en Node.js, NestJS, microservicios, sistemas orientados a eventos, Solidity y blockchain.
 
-Consultor en transformación digital para empresas desarrollando todo tipo de productos digitales implementando para ello tecnologías Blockchain & web y metodologías ágiles de trabajo como Scrum.
+Soy Tech Lead y Arquitecto de Backend con más de 13 años de experiencia, ayudando a empresas a diseñar y escalar sistemas backend y blockchain, alineando la arquitectura con los objetivos de negocio.
 
-Puedo definirme experto tanto en el análisis como en la implantación de soluciones de aplicaciones web como para dispositivos móviles mediante lenguajes de programación actuales, las tecnologías más avanzadas y las buenas prácticas aplicadas a los proyectos coordinando para ello equipos de trabajo multi-disciplinares. Siempre en constante aprendizaje ofreciendo gran facilidad en adaptación al cambio.
+Lidero equipos técnicos, tomo decisiones estratégicas de arquitectura y brindo orientación en la definición de productos digitales complejos, asegurando escalabilidad, seguridad y eficiencia.
+
+Principales áreas de expertise: Arquitectura limpia, microservicios, Node.js, NestJS, Solidity, React y sistemas orientados a eventos (Kafka, RabbitMQ).
+
+Trabajo con clientes B2B de manera remota, apoyando iniciativas de transformación digital, acelerando el desarrollo de productos y fortaleciendo procesos técnicos y arquitectónicos.
 
 ## Sígueme en Redes Sociales:
 
